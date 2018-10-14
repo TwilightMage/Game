@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3210bb56-3873-46ab-8721-bcaf8fef3fe6",
+            "Value": {
+                "id": "2c53d832-a05d-4c93-90c5-405d2b2897fe",
+                "resourcePath": "tilesets\\tileset_Holoddor\\tileset_Holoddor.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "33f9c3f3-1897-46f9-a8c4-0fed0e1893f8",
             "Value": {
                 "id": "ac106a45-1c31-49fd-af35-2d832ce2e5c0",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "aec79a60-b2a8-4c8e-96ac-592a6936744e",
+            "Value": {
+                "id": "ebd9a763-9deb-49ee-83a2-91963dd8a8ec",
+                "resourcePath": "rooms\\Holoddor\\Holoddor.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b7a27bbf-9182-4a2a-aec3-ec114c10b2f3",
             "Value": {
                 "id": "de127f22-f930-4150-8681-3aad35427ba7",
@@ -211,6 +227,14 @@
             "Value": {
                 "id": "9e42dbda-c2f0-436b-8fad-a7fdbb35d84f",
                 "resourcePath": "views\\bb9314e6-c8f2-4636-acf7-fd0da1e13d11.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "beff1b02-b3f7-4aeb-9223-1662031c5df4",
+            "Value": {
+                "id": "0d568df0-ae4c-4638-b82f-09203ae943ec",
+                "resourcePath": "views\\beff1b02-b3f7-4aeb-9223-1662031c5df4.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -244,6 +268,14 @@
                 "id": "56d836ba-c1cd-408f-99cb-e1c3915b5548",
                 "resourcePath": "views\\dd993ad6-62a0-480e-bf41-4a8befe71489.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e03d4da2-c3ab-42c6-99ee-5ed163bd166d",
+            "Value": {
+                "id": "d801c4bc-5999-4184-82dd-9088f575aec0",
+                "resourcePath": "sprites\\gbHoloddor\\gbHoloddor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
